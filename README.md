@@ -5,11 +5,11 @@ A repo consists of links for the awesome clarifai modules
 | **Module Name** | **GitHub URL** | **Module description** |
 |------------------|----------|---------------------------|
 | LLM battleground | https://github.com/Clarifai/module-llm-battleground | This module enables easy comparison and evaluation of many large language models and compare the responses. |
-| Chatbot | https://github.com/Clarifai/module-chatbot | This module lets you chat with several Large Language Models and give a custom chatbot experience |
-| DocQA | https://github.com/Clarifai/module-docQA| This is a demo app showcasing the usefullness of Retrieval Augmented Text Generation. This module includes 4 main pages:Upload: This page takes a pdf, parses it into chunks, and uploads it to a Clarifai app with metadata to track the source and page/chunk number.
-Upload with Geo: This page takes a pdf, parses it into chunks, then extracts relevant locations using a LLM and uploads the text chunks and geo data to a Clarifai app.
-Investigate: This page showcases different use cases such as semantic search for document retrieval, followed with NER (named-entity recognition), document summarization, and a "chat with the document" experience.
-Geo Search: This page uses Clarifai semantic search and geo data search to retrieve relevant documents within a designated geo location, which can then used to ground the LLM generation for a summarization task. |
+| Chatbot | https://github.com/Clarifai/module-chatbot | This module lets you chat with several Large Language Models and give a custom chatbot experience. |
+| DocQA | https://github.com/Clarifai/module-docQA| This is a Module showcase the usefullness of Retrieval Augmented Text Generation where User can upload a document and perform variety of tasks. |
+| Gallery | https://github.com/Clarifai/module-gallery | Module-gallery acts as a template for the users to perform different tasks with inputs (Images & Texts) and to visualize the metrics of the app. |
+| Template | https://github.com/Clarifai/module-template | This is a Module-template repository acts as a basic template to make it easy for the users to get started with creating a custom UI module with Clarifai. |
+| Prompting | https://github.com/Clarifai/module-prompting | Base repo from which LLM battleground is developed. |
 
 
 
