@@ -12,4 +12,7 @@ A repo consists of links for the awesome clarifai modules
 | Prompting | https://github.com/Clarifai/module-prompting | Base repo from which LLM battleground is developed. |
 
 
-
+## Private Modules
+| **Module Name** | **GitHub URL** | **Module description** |
+|------------------|----------|---------------------------|
+| Module-eval | https://github.com/Clarifai/module-eval | This module-eval runs on all evaluation pages on the platform |
