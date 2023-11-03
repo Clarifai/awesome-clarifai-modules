@@ -15,19 +15,18 @@ A repo consists of links for the awesome clarifai modules
 ## Private Modules
 | **Module Name** | **GitHub URL** | **Module description** |
 |------------------|----------|---------------------------|
-| Module eval | [https://github.com/Clarifai/module-eval](https://clarifai.com/clarifai/LLM-OpenSource-Models-Training-Inference-Test/modules/llm_eval) | This module-eval runs on all evaluation pages on the platform |
-| Module Collectors | https://github.com/Clarifai/module-collector | Collectors capture input data for your app. They enable you to pipe in data from production models automatically, and are the key to unlocking many platform training capabilities like active learning. |
-| Module Hyperparameter-Sweeps | [https://github.com/Clarifai/module-hyperparamter-sweeps](https://clarifai.com/clarifai/ml/modules/module-hyperparameter_sweeps) | This Module enables users to experiment with a variety of hyperparameter values and their combinations. Also to designate a range of values for a hyperparameter, specifying the step size for experimentation. |
+| Module eval |https://clarifai.com/clarifai/LLM-OpenSource-Models-Training-Inference-Test/modules/llm_eval | This module-eval runs on all evaluation pages on the platform |
+| Module Collectors | https://clarifai.com/clarifai/data/modules/collector | Collectors capture input data for your app. They enable you to pipe in data from production models automatically, and are the key to unlocking many platform training capabilities like active learning. |
+| Module Hyperparameter-Sweeps | https://clarifai.com/clarifai/ml/modules/module-hyperparameter_sweeps | This Module enables users to experiment with a variety of hyperparameter values and their combinations. Also to designate a range of values for a hyperparameter, specifying the step size for experimentation. |
 | Module Manager | https://github.com/Clarifai/module-manager | This is a Module that manages the creation and management of modules (which are other streamlit apps) in the Clarifai platform |
-| Module Clarifai-gpt | https://github.com/Clarifai/module-clarifaigpt | This Module Converts Clarifai community apps into tools that can be leveraged by LLM based agent to build a custom workflow and complete complex tasks |
-| Module PandasAI | https://github.com/Clarifai/module-pandasai | This module allows users to ask questions about their DataFrame. Questions can geenrate insights or plots. As you generate plots, you can keep refining your prompt to get your desired output |
-| Module Mattgpt | https://github.com/Clarifai/module-mattgpt | |
+| Module Clarifai-gpt | https://clarifai.com/clarifai/geoint-demo-3/modules/clarifaigpt | This Module Converts Clarifai community apps into tools that can be leveraged by LLM based agent to build a custom workflow and complete complex tasks |
+| Module PandasAI | https://clarifai.com/clarifai/module-lab/modules/pandasai | This module allows users to ask questions about their DataFrame. Questions can geenrate insights or plots. As you generate plots, you can keep refining your prompt to get your desired output |
 | Module Model Importer | https://github.com/Clarifai/module-model-importer | This module lets you easily import models from Hugging Face to your app and Triton Import lets you upload your local triton-format model to your app |
-| Module Labelling Metrics | https://github.com/Clarifai/module-labelling-metrics | This module helps gain insights from your labeling tasks. Breakdowns of progress, input statuses, annotations created per worker, durations per worker, etc. so that you can optimize your labelling efforts. |
-| Module Pricing Calculator | [https://github.com/Clarifai/module-pricing-calc](https://clarifai.com/clarifai/model-pricing/modules/pricing-module) | This wonderfule module helps with pricing calculations easier to understand for users. |
+| Module Labeler Metrics | https://clarifai.com/clarifai/visualize/modules/labeler_metrics | This module helps gain insights from your labeling tasks. Breakdowns of progress, input statuses, annotations created per worker, durations per worker, etc. so that you can optimize your labelling efforts. |
+| Module Pricing Calculator | https://clarifai.com/clarifai/model-pricing/modules/pricing-module | This wonderfule module helps with pricing calculations easier to understand for users. |
 | Module Low Dim Visualization | https://github.com/Clarifai/module-low-dim-visualization | This module allows to visualize high dimensional data in a low dimensional graph. It utilizes Bokeh to allow interactive visualization. |
-| Module PDF Uploader | https://github.com/Clarifai/module-pdf-uploader | This Module lets you chunk your pdf and uploads it to a Clarifai Application. You can configure even configure word level chunk size. |
-| Module Data Augmentation | https://github.com/Clarifai/module-data-augmentation | This module augments the data in a Clarifai Application. You can configure a set of augmentation to apply to your images and then upload to your Clarifai App. |
-| Module Cluster Labeler | https://github.com/Clarifai/module-cluster-labeler | This Module allows to label UMAP clusters. You can click on points or use the box or lasso tool to select multiple points to label |
+| Module PDF Uploader | https://clarifai.com/clarifai/data/modules/pdf_uploader | This Module lets you chunk your pdf and uploads it to a Clarifai Application. You can configure even configure word level chunk size. |
+| Module Data Augmentation | https://clarifai.com/clarifai/data/modules/data-augmentation | This module augments the data in a Clarifai Application. You can configure a set of augmentation to apply to your images and then upload to your Clarifai App. |
+| Module Cluster Labeler | https://clarifai.com/clarifai/data/modules/cluster-labeler | This Module allows to label UMAP clusters. You can click on points or use the box or lasso tool to select multiple points to label |
 
 
