@@ -16,3 +16,4 @@ A repo consists of links for the awesome clarifai modules
 | **Module Name** | **GitHub URL** | **Module description** |
 |------------------|----------|---------------------------|
 | Module-eval | https://github.com/Clarifai/module-eval | This module-eval runs on all evaluation pages on the platform |
+| Collectors | https://github.com/Clarifai/module-collector | Collectors capture input data for your app. They enable you to pipe in data from production models automatically, and are the key to unlocking many platform training capabilities like active learning. |
