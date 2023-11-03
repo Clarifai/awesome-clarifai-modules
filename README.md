@@ -6,7 +6,7 @@ A repo consists of links for the awesome clarifai modules
 |------------------|----------|---------------------------|
 | Module LLM battleground | https://github.com/Clarifai/module-llm-battleground | This module enables easy comparison and evaluation of many large language models and compare the responses. |
 | Module Chatbot | https://github.com/Clarifai/module-chatbot | This module lets you chat with several Large Language Models and give a custom chatbot experience. |
-| Module DocQA | https://github.com/Clarifai/module-docQA| This is a Module showcase the usefullness of Retrieval Augmented Text Generation where User can upload a document and perform variety of tasks. |
+| Module DocQA | https://github.com/Clarifai/module-docQA| This Module showcase the usefullness of Retrieval Augmented Text Generation where User can upload a document and perform variety of tasks. |
 | Module Gallery | https://github.com/Clarifai/module-gallery | Module-gallery acts as a template for the users to perform different tasks with inputs (Images & Texts) and to visualize the metrics of the app. |
 | Module Template | https://github.com/Clarifai/module-template | This is a Module-template repository acts as a basic template to make it easy for the users to get started with creating a custom UI module with Clarifai. |
 | Module Prompting | https://github.com/Clarifai/module-prompting | Base repo from which LLM battleground is developed. |
@@ -28,6 +28,6 @@ A repo consists of links for the awesome clarifai modules
 | Module Low Dim Visualization | https://github.com/Clarifai/module-low-dim-visualization | This module allows to visualize high dimensional data in a low dimensional graph. It utilizes Bokeh to allow interactive visualization. |
 | Module PDF Uploader | https://github.com/Clarifai/module-pdf-uploader | This Module lets you chunk your pdf and uploads it to a Clarifai Application. You can configure even configure word level chunk size. |
 | Module Data Augmentation | https://github.com/Clarifai/module-data-augmentation | This module augments the data in a Clarifai Application. You can configure a set of augmentation to apply to your images and then upload to your Clarifai App. |
-| 
+| Module Cluster Labeler | https://github.com/Clarifai/module-cluster-labeler | This Module allows to label UMAP clusters. You can click on points or use the box or lasso tool to select multiple points to label |
 
 
