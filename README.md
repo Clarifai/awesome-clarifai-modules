@@ -28,5 +28,6 @@ A repo consists of links for the awesome clarifai modules
 | Module PDF Uploader | https://clarifai.com/clarifai/data/modules/pdf_uploader | This Module lets you chunk your pdf and uploads it to a Clarifai Application. You can configure even configure word level chunk size. |
 | Module Data Augmentation | https://clarifai.com/clarifai/data/modules/data-augmentation | This module augments the data in a Clarifai Application. You can configure a set of augmentation to apply to your images and then upload to your Clarifai App. |
 | Module Cluster Labeler | https://clarifai.com/clarifai/data/modules/cluster-labeler | This Module allows to label UMAP clusters. You can click on points or use the box or lasso tool to select multiple points to label |
+| Module Shop The Look | | Module to simulate the ability to implement a visual recommendation system for e-commerce using Clarifai's Visual Search utility.
 
 
