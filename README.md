@@ -14,7 +14,7 @@ A repo consists of links for the awesome clarifai modules
 
 
 ## Private Modules
-| **Module Name** | **GitHub URL** | **Module description** |
+| **Module Name** | **Clarifai URL** | **Module description** |
 |------------------|----------|---------------------------|
 | Module eval |https://clarifai.com/clarifai/LLM-OpenSource-Models-Training-Inference-Test/modules/llm_eval | This module-eval runs on all evaluation pages on the platform |
 | Module Collectors | https://clarifai.com/clarifai/data/modules/collector | Collectors capture input data for your app. They enable you to pipe in data from production models automatically, and are the key to unlocking many platform training capabilities like active learning. |
