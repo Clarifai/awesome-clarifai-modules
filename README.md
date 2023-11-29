@@ -16,6 +16,7 @@ A repo consists of links for the awesome clarifai modules
 ## Private Modules
 | **Module Name** | **Clarifai URL** | **Module description** |
 |-----------------|----------------|---------------------------|
+| Module Face Visual Search | [![Clarifai](https://img.shields.io/badge/Clarifai-Link-blue?logo=Clarifai)](https://clarifai.com/mansi_k/VisualSearchPOC/modules/face_search) | Module to visually do a face search from the input image data |
 | Module eval | [![Clarifai](https://img.shields.io/badge/Clarifai-Link-blue?logo=Clarifai)](https://clarifai.com/clarifai/LLM-OpenSource-Models-Training-Inference-Test/modules/llm_eval) | This module-eval runs on all evaluation pages on the platform |
 | Module Collectors | [![Clarifai](https://img.shields.io/badge/Clarifai-Link-blue?logo=Clarifai)](https://clarifai.com/clarifai/data/modules/collector) | Collectors capture input data for your app. They enable you to pipe in data from production models automatically, and are the key to unlocking many platform training capabilities like active learning. |
 | Module Hyperparameter-Sweeps | [![Clarifai](https://img.shields.io/badge/Clarifai-Link-blue?logo=Clarifai)](https://clarifai.com/clarifai/ml/modules/module-hyperparameter_sweeps) | This Module enables users to experiment with a variety of hyperparameter values and their combinations. Also to designate a range of values for a hyperparameter, specifying the step size for experimentation. |
